@@ -7,9 +7,7 @@ Nim     : 312010207
 
 Kelas   : TI.20.B.1
 
-Pratikum 
 
-Persiapan membuat dokumen HTML dengan nama file lab5_javascript.html seperti berikut
 
 
 
